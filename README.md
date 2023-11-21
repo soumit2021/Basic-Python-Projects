@@ -6,7 +6,7 @@ This repository contains all the mini-projects that I've worked on python.
 |	01	| **[001_Convert_IPython_to_PDF](https://github.com/soumit2021/Python-Mini-Projects/tree/main/001_Convert_IPython_to_PDF)** | 
 |	02	| **[002_Create_Digital_Clock_and_Stopwatch](https://github.com/soumit2021/Python-Mini-Projects/tree/main/002_Create_Digital_Clock)** | 
 |	03	| **[003_Convert_.py_to_.exe](https://github.com/soumit2021/Python-Mini-Projects/tree/main/003_Convert_.py_to_.exe)** | 
-|	04	| **[004_Find_IP_Address](https://github.com/milaan9/91_Python_Mini_Projects/tree/main/004_Find_IP_Address)** | 
+|	04	| **[004_Find_IP_Address](https://github.com/soumit2021/Python_Mini_Projects/tree/main/004_Find_IP_Address)** | 
 |	05	| **[005_Test_Internet_Speed](https://github.com/milaan9/91_Python_Mini_Projects/tree/main/005_Test_Internet_Speed)** | 
 |	06	| **[006_Check_Weather_Forecast](https://github.com/milaan9/91_Python_Mini_Projects/tree/main/006_Check_Weather_Forecast)** | 
 |	07	| **[007_Create_AudioBook_from_PDF](https://github.com/milaan9/91_Python_Mini_Projects/tree/main/007_Create_AudioBook_from_PDF)** | 
