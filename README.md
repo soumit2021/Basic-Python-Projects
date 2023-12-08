@@ -8,21 +8,21 @@ This repository contains all the mini-projects that I've worked on python.
 |	03	| **[003_Convert_.py_to_.exe](https://github.com/soumit2021/Python-Mini-Projects/tree/main/003_Convert_.py_to_.exe)** | 
 |	04	| **[004_Find_IP_Address](https://github.com/soumit2021/Python_Mini_Projects/tree/main/004_Find_IP_Address)** | 
 |	05	| **[005_Test_Internet_Speed](https://github.com/soumit2021/Python_Mini_Projects/tree/main/005_Test_Internet_Speed)** | 
-|	06	| **[006_Check_Weather_Forecast](https://github.com/milaan9/91_Python_Mini_Projects/tree/main/006_Check_Weather_Forecast)** | 
-|	07	| **[007_Create_AudioBook_from_PDF](https://github.com/milaan9/91_Python_Mini_Projects/tree/main/007_Create_AudioBook_from_PDF)** | 
-|	08	| **[008_Generate_Random_Jokes](https://github.com/milaan9/91_Python_Mini_Projects/tree/main/008_Generate_Random_Jokes)** | 
-|	09	| **[009_Convert_image_to_ASCII_Grayscale_Negative_and_Pencil_Sketch_Art](https://github.com/milaan9/91_Python_Mini_Projects/tree/main/009_Convert_image_to_ASCII)** | 
-|	10	| **[010_Perform_Google_Search](https://github.com/milaan9/91_Python_Mini_Projects/tree/main/010_Perform_Google_Search)** | 
-|	11	| **[011_Generate_QR_Code](https://github.com/milaan9/91_Python_Mini_Projects/tree/main/011_Generate_QR_Code)** | 
-|	12	| **[012_Encode_CAPTCHA](https://github.com/milaan9/91_Python_Mini_Projects/tree/main/012_Encode_CAPTCHA)** | 
-|	13	| **[013_Unzip_File](https://github.com/milaan9/91_Python_Mini_Projects/tree/main/013_Unzip_File)** | 
-|	14	| **[014_Run_JavaScript_in_Python](https://github.com/milaan9/91_Python_Mini_Projects/tree/main/014_Run_JavaScript_in_Python)** | 
-|	15	| **[015_Web_Scraping_Covid-19_Data](https://github.com/milaan9/91_Python_Mini_Projects/tree/main/015_Web_Scraping_Covid-19_Data)** | 
-|	16	| **[016_Web_Scraping_CoWin_Vaccine_Slots](https://github.com/milaan9/91_Python_Mini_Projects/tree/main/016_Web_Scraping_CoWin_Vaccine_Slots)** | 
-|	17	| **[017_Check_Weather_Forecast_with_GUI](https://github.com/milaan9/91_Python_Mini_Projects/tree/main/017_Check_Weather_Forecast_with_GUI)** | 
-|	18	| **[018_Draw_Sakura_Tree](https://github.com/milaan9/91_Python_Mini_Projects/tree/main/018_Draw_Sakura_Tree)** | 
-| 19 | **[019_Plagiarism_Checker](https://github.com/milaan9/91_Python_Mini_Projects/tree/main/019_Plagiarism_Checker)** |
-| 20 | **[020_Road_Detection](https://github.com/milaan9/91_Python_Mini_Projects/tree/main/020_Road_Detection)** |
+|	06	| **[006_Check_Weather_Forecast](https://github.com/soumit2021/Python-Mini-Projects/tree/main/006_Check_Weather_Forecast)** | 
+|	07	| **[007_Create_AudioBook_from_PDF](https://github.com/soumit2021/Python-Mini-Projects/tree/main/007_Create_AudioBook_from_PDF)** | 
+|	08	| **[008_Generate_Random_Jokes](https://github.com/soumit2021/Python-Mini-Projects/tree/main/008_Generate_Random_Jokes)** | 
+|	09	| **[009_Convert_image_to_ASCII_Grayscale_Negative_and_Pencil_Sketch_Art](https://github.com/soumit2021/Python-Mini-Projects/tree/main/009_Convert_image_to_ASCII)** | 
+|	10	| **[010_Perform_Google_Search](https://github.com/soumit2021/Python-Mini-Projects/tree/main/010_Perform_Google_Search)** | 
+|	11	| **[011_Generate_QR_Code](https://github.com/soumit2021/Python-Mini-Projects/tree/main/011_Generate_QR_Code)** | 
+|	12	| **[012_Encode_CAPTCHA](https://github.com/soumit2021/Python-Mini-Projects/tree/main/012_Encode_CAPTCHA)** | 
+|	13	| **[013_Unzip_File](https://github.com/soumit2021/Python-Mini-Projects/tree/main/013_Unzip_File)** | 
+|	14	| **[014_Run_JavaScript_in_Python](https://github.com/soumit2021/Python-Mini-Projects/tree/main/014_Run_JavaScript_in_Python)** | 
+|	15	| **[015_Web_Scraping_Covid-19_Data](https://github.com/soumit2021/Python-Mini-Projects/tree/main/015_Web_Scraping_Covid-19_Data)** | 
+|	16	| **[016_Web_Scraping_CoWin_Vaccine_Slots](https://github.com/soumit2021/Python-Mini-Projects/tree/main/016_Web_Scraping_CoWin_Vaccine_Slots)** | 
+|	17	| **[017_Check_Weather_Forecast_with_GUI](https://github.com/soumit2021/Python-Mini-Projects/tree/main/017_Check_Weather_Forecast_with_GUI)** | 
+|	18	| **[018_Draw_Sakura_Tree](https://github.com/soumit2021/Python-Mini-Projects/tree/main/018_Draw_Sakura_Tree)** | 
+| 19 | **[019_Plagiarism_Checker](https://github.com/soumit2021/Python-Mini-Projects/tree/main/019_Plagiarism_Checker)** |
+| 20 | **[020_Road_Detection](https://github.com/soumit2021/Python-Mini-Projects/tree/main/020_Road_Detection)** |
 
 ---
 
